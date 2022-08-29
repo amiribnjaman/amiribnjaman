@@ -2,7 +2,9 @@
 
 ### This is AMIR HOSEN
 
-A ### MERN STACK DEVELOPER Although I am a MERN Developer but I hove ### Frontend Developement
+### Frontend Developer
+
+### MERN STACK Experienced
 
 <!--
 **amiribnjaman/amiribnjaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
