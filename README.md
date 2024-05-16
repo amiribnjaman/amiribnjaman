@@ -17,11 +17,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/amir-hosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hosen" height="30" width="40" /></a>
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/amir_hosen rel="nofollow" target="_blank" style='display: inline-block;'>
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hosen" height="30" width="40" />
-    </a>
-</div>
+<a itemprop='url' href=https://www.fiverr.com/amir_hosen rel="nofollow" target="_blank" style='display: inline-block;'>
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr-alt.svg" alt="amir-hosen" height="30" width="40" />
+</a>
 
 </p>
 
