@@ -19,16 +19,7 @@
 
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/amir_hosen rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-827b060b-9fa0-43d1-9aa7-9fded8dc5c95' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >amir_hosen</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hello!
-I'm a professional web developer from Bangladesh. I'm a creative full-stack web developer with more than 2 years of local job experience.  My passion is to create a beautiful, eye-catching, responsive website using modern web technologies. I work hard to satisfy my clients and client satisfaction is my first goal.
-
-Thanks.</div>
-        </div>
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hosen" height="30" width="40" />
     </a>
 </div>
 
