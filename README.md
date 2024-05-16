@@ -12,13 +12,15 @@
 - 💬 Ask me about **JS, ReactJS, NestJS, Node, Express**
 
 - 📫 How to reach me **amirhosen3405@gmail.com**
+  
+- 📄 Find me on Fiverr [https://www.fiverr.com/amir_hosen](https://www.fiverr.com/amir_hosen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amir-hosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hosen" height="30" width="40" /></a>
 
 <a itemprop='url' href=https://www.fiverr.com/amir_hosen rel="nofollow" target="_blank" style='display: inline-block;'>
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr-alt.svg" alt="amir-hosen" height="30" width="40" />
+          <img align="center" src="https://icons8.com/icon/ngc6JsBomclm/fiverr" alt="amir-hosen" height="30" width="40" />
 </a>
 
 </p>
